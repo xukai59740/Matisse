@@ -1,6 +1,6 @@
 ![Image](/image/banner.png)
 
-# Matisse
+# Matisse 知乎图片选择器
 [![Build Status](https://travis-ci.org/zhihu/Matisse.svg)](https://travis-ci.org/zhihu/Matisse) [ ![Download](https://api.bintray.com/packages/zhihu/maven/matisse/images/download.svg) ](https://bintray.com/zhihu/maven/matisse/_latestVersion)
 
 Matisse is a well-designed local image and video selector for Android. You can  
